@@ -1,0 +1,42 @@
+.panel-transparent {
+	border-radius: 35px;
+	background: rgba(255, 255, 255, .7);
+	display: inline-block;
+	padding: 15px;
+}
+
+.text-background {
+	background: rgba(255, 255, 255, .7);
+	border-radius: 75px;
+}
+
+.service-box {
+	min-height: 150px;
+}
+
+header .header-content .header-content-inner h1 {
+  color: #d88201;
+	text-shadow:
+  	.014em .014em black,
+  	.02em 0 black,
+  	.014em -.014em black,
+  	0 .02em black,
+  	0 -.02em black,
+  	-.014em .014em black,
+  	-.02em 0 black,
+  	-.014em -.014em black;
+}
+
+header .header-content .header-content-inner p {
+	color: black;
+	max-width: 100%;
+}
+
+.layer {
+    background-color: rgba(255, 128, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

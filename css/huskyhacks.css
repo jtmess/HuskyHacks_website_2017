@@ -15,7 +15,7 @@
 }
 
 header .header-content .header-content-inner h1 {
-  color: #d88201;
+  color: #36A849;
 	text-shadow:
   	.014em .014em black,
   	.02em 0 black,
@@ -33,7 +33,7 @@ header .header-content .header-content-inner p {
 }
 
 .layer {
-    background-color: rgba(255, 128, 0, 0.7);
+    background: -webkit-linear-gradient(-45deg, rgba(30,100,30, 0.5) 0%,rgba(30,30,30, 0.5) 100%);
     position: absolute;
     top: 0;
     left: 0;
